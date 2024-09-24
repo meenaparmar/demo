@@ -1,4 +1,4 @@
 # demo
 this is my first Git Repository
 <br>
-Author - Meena Parmar(parmar)
+Author - Meena Parmar(parmar meena)
